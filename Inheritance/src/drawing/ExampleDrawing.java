@@ -15,6 +15,8 @@ public class ExampleDrawing {
 		Canvas c= new Canvas(15,5); 
 		c.draw(f);
 		
+		//Shape s= new Shape(); not possible for abstract class
+		
 		
 	}
 

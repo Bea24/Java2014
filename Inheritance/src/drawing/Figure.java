@@ -1,6 +1,6 @@
 package drawing;
 
-public class Figure extends Shape {
+public class Figure implements Shape {
 	
 	private static final int MAX_ELEMENTS = 10;
 	private Shape[] elements = new Shape[MAX_ELEMENTS];

@@ -1,6 +1,6 @@
 package drawing;
 
-public class Rectangle extends Shape {
+public class Rectangle implements Shape {
 	
 	private int x0;
 	private int y0;
